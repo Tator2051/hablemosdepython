@@ -15,3 +15,14 @@ def operaciones(a,b):
 
 s,m,r=operaciones(5,6)
 print(s,m,r)
+
+
+# Declaración de variables globales
+
+# def suma(a,b):
+#     global result
+#     result = a+b
+#     print(result)
+
+# suma(5,6)
+# print(result)
