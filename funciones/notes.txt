@@ -1,0 +1,3 @@
+SCOPES : contexto o ámbito
+- variables globales : a lo largo de todo el codigo
+- variables locales: dentro del scope 
